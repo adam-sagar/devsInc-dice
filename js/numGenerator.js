@@ -13,4 +13,6 @@ function D8() {
     document.getElementById("D8").innerHTML=x;
     if (x = 0)
         alert('Number below limit');
+    if (x=9)
+        alert('Number above limit');
     }
